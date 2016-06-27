@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASLCardboard5.3.3f.CSharp", "ASLCardboard5.3.3f.CSharp.csproj", "{B1B46C9A-71C7-3059-8C1D-BB38A111ECA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASLCardboard5.3.3f.CSharp.Editor", "ASLCardboard5.3.3f.CSharp.Editor.csproj", "{57D7F248-81C9-3D57-1CE1-6907D1A1153A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B46C9A-71C7-3059-8C1D-BB38A111ECA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B46C9A-71C7-3059-8C1D-BB38A111ECA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B46C9A-71C7-3059-8C1D-BB38A111ECA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B46C9A-71C7-3059-8C1D-BB38A111ECA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D7F248-81C9-3D57-1CE1-6907D1A1153A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D7F248-81C9-3D57-1CE1-6907D1A1153A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D7F248-81C9-3D57-1CE1-6907D1A1153A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D7F248-81C9-3D57-1CE1-6907D1A1153A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
